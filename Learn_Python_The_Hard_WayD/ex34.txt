@@ -1,0 +1,25 @@
+animals = ['bear', 'python', 'peacock', 'kangaroo', 'whale', 'platypus']
+
+1a. The animal at 1 is the second animal and is a python - cardinal
+b.	The second animal is at 1 and is a python - ordinal
+
+2a. The third animal is at 2 and is a peacock - ordinal
+b.	The animal at 2 is the third animal and is a peacock - cardinal
+
+3a. The first animal is at 0 and is a bear - ordinal
+b.	The animal at 0 is the first animal and is a bear - cardinal
+
+4a.	The animal at 3 is the fourth animal and is a kangaroo - cardinal
+b.	The fourth animal is at 3 and is a kangaroo - ordinal
+
+5a. The fifth animal is at 4 and is a whale - ordinal
+b.	The animal at 4 is the fifth animal and is a whale - cardinal
+
+6a. The animal at 2 is the third animal and is a peacock - cardinal
+b.	The third animal is at 2 and is a peacock - ordinal
+
+7a. The sixth animal is at 5 and is a platypus - ordinal
+b.	The animal at 5 is the sixth animal and is a platypus - cardinal
+
+8a. The animal at 4 is the fifth aniamal and is a whale - cardinal
+b.	The fifth animal is at 4 and is a whale - ordinal
